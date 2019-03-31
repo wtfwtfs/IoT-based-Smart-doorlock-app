@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "72322062251",
+    "firebase_url": "https://iot-project-a18eb.firebaseio.com",
+    "project_id": "iot-project-a18eb",
+    "storage_bucket": "iot-project-a18eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72322062251:android:72e0d1257395119f",
+        "android_client_info": {
+          "package_name": "com.finalproject.iotbasedsmartdoorlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72322062251-aoiamvga3b7m9msjibnl3k245ru3jsdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM7tcbjRnzssIkb9q-ytxHpA6O2aX77b4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
